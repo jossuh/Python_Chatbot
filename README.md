@@ -18,10 +18,15 @@ This project is an intelligent chatbot application built with Python, leveraging
 ## Libraries Used:
 
 -Flask: Application framework
+
 -LangChain: Conversational AI and retrieval chains
+
 -ChatOpenAI: Advanced AI model for chat
+
 -Chroma: Vector storage for embeddings
+
 -Twilio: Messaging API for user interaction
+
 -Gspread: Data logging to Google Sheets
 
 This chatbot is a powerful tool for enhancing user interactions, automating responses, and managing data seamlessly. The repository includes well-documented code to facilitate easy setup and customization.
